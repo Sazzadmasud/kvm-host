@@ -1,0 +1,6 @@
+<network>
+   <name>provision</name>
+   <ip address='XXXX' netmask='YYYY'>
+   </ip>
+</network>
+
